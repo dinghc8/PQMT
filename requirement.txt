@@ -1,0 +1,7 @@
+torch
+tqdm
+tensorboardX
+seqeval==1.2.2
+datasets
+packaging
+pydantic
